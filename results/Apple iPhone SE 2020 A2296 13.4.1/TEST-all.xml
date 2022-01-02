@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Bitbar_Sample_App" timestamp="2021-12-30T04:14:23" time="7.847" tests="1" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="Bitbar Sample App"/>
+      <property name="capabilities" value="localdevice.ios.13_4_1.application_ipa"/>
+      <property name="file" value="./test/specs/ios.js"/>
+    </properties>
+    <testcase classname="localdevice.ios.13_4_1.application_ipa.Bitbar_Sample_App" name="2nd_radio_button_should_be_clicked" time="7.823"/>
+  </testsuite>
+</testsuites>

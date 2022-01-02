@@ -1,0 +1,189 @@
+{
+    "id":  207735937,
+    "selfURI":  null,
+    "config":  {
+                   "id":  null,
+                   "selfURI":  null,
+                   "appiumBrokerAddress":  null,
+                   "applicationPassword":  null,
+                   "applicationUsername":  null,
+                   "creditsPrice":  null,
+                   "deviceLanguageCode":  "en_US",
+                   "videoRecordingEnabled":  false,
+                   "hookURL":  null,
+                   "instrumentationRunner":  null,
+                   "limitationType":  null,
+                   "limitationValue":  null,
+                   "appCrawlerRun":  false,
+                   "projectId":  207091073,
+                   "runAvailable":  true,
+                   "scheduler":  "PARALLEL",
+                   "screenshotDir":  null,
+                   "deviceGroupId":  4127,
+                   "usedDeviceGroupId":  4127,
+                   "usedDeviceGroupName":  "Trial iOS devices",
+                   "withAnnotation":  null,
+                   "withoutAnnotation":  null,
+                   "timeout":  1800,
+                   "maxTestTimeout":  {
+                                          "unit":  "SECONDS",
+                                          "value":  1800
+                                      },
+                   "maxAutoRetriesCount":  null,
+                   "frameworkId":  542,
+                   "availableDeviceGroups":  null,
+                   "availableDevices":  null,
+                   "availableFrameworks":  null,
+                   "availableOsTypes":  [
+                                            "IOS",
+                                            "ANDROID"
+                                        ],
+                   "files":  [
+                                 {
+                                     "id":  149766310,
+                                     "selfURI":  null,
+                                     "action":  "INSTALL",
+                                     "availableActions":  [
+                                                              "INSTALL",
+                                                              "COPY_TO_DEVICE",
+                                                              "RUN_TEST"
+                                                          ],
+                                     "file":  {
+                                                  "id":  149766310,
+                                                  "selfURI":  null,
+                                                  "createTime":  1640866196000,
+                                                  "fileProperties":  [
+                                                                         {
+                                                                             "id":  13515962,
+                                                                             "selfURI":  null,
+                                                                             "key":  "bundle_identifier",
+                                                                             "value":  "com.bitbar.testdroid.BitbarIOSSample"
+                                                                         },
+                                                                         {
+                                                                             "id":  13515963,
+                                                                             "selfURI":  null,
+                                                                             "key":  "bundle_name",
+                                                                             "value":  "BitbarIOSSample"
+                                                                         },
+                                                                         {
+                                                                             "id":  13515964,
+                                                                             "selfURI":  null,
+                                                                             "key":  "min_sdk",
+                                                                             "value":  "600"
+                                                                         },
+                                                                         {
+                                                                             "id":  13515970,
+                                                                             "selfURI":  null,
+                                                                             "key":  "virus_scan_status",
+                                                                             "value":  "safe"
+                                                                         }
+                                                                     ],
+                                                  "state":  "READY",
+                                                  "name":  "bitbar-ios-sample.ipa",
+                                                  "size":  144575,
+                                                  "directUrl":  "https://cloud.bitbar.com/cloud/api/v2/me/files/149766310/file",
+                                                  "iconDirectUrl":  null,
+                                                  "mimetype":  "application/octet-stream",
+                                                  "direction":  "INPUT",
+                                                  "inputType":  "APPLICATION",
+                                                  "duplicate":  false,
+                                                  "userEmail":  "changgen.peng@yahoo.com",
+                                                  "userId":  74703301,
+                                                  "shared":  false
+                                              }
+                                 },
+                                 {
+                                     "id":  149780393,
+                                     "selfURI":  null,
+                                     "action":  "RUN_TEST",
+                                     "availableActions":  [
+                                                              "RUN_TEST",
+                                                              "COPY_TO_DEVICE"
+                                                          ],
+                                     "file":  {
+                                                  "id":  149780393,
+                                                  "selfURI":  null,
+                                                  "createTime":  1640866199000,
+                                                  "fileProperties":  [
+                                                                         {
+                                                                             "id":  13524870,
+                                                                             "selfURI":  null,
+                                                                             "key":  "virus_scan_status",
+                                                                             "value":  "safe"
+                                                                         }
+                                                                     ],
+                                                  "state":  "READY",
+                                                  "name":  "BitbarAutomation.zip",
+                                                  "size":  37851,
+                                                  "directUrl":  "https://cloud.bitbar.com/cloud/api/v2/me/files/149780393/file",
+                                                  "iconDirectUrl":  null,
+                                                  "mimetype":  "application/zip",
+                                                  "direction":  "INPUT",
+                                                  "inputType":  "TEST",
+                                                  "duplicate":  false,
+                                                  "userEmail":  "changgen.peng@yahoo.com",
+                                                  "userId":  74703301,
+                                                  "shared":  false
+                                              }
+                                 }
+                             ],
+                   "osType":  "IOS",
+                   "testRunParameters":  [
+
+                                         ],
+                   "deviceIds":  null,
+                   "status":  null,
+                   "statusCode":  0,
+                   "testRunName":  "UITest",
+                   "testRunNameGrouping":  null,
+                   "testRunId":  null,
+                   "deviceNamePattern":  null,
+                   "projectName":  null,
+                   "resignFiles":  true,
+                   "disableResigning":  false,
+                   "loadedPrevious":  false,
+                   "useSamples":  false,
+                   "clientSideTestConfig":  null,
+                   "computedDevices":  [
+                                           80943
+                                       ]
+               },
+    "createTime":  1640866201000,
+    "startTime":  1640866341000,
+    "displayName":  "UITest",
+    "errorsDeviceCount":  0,
+    "excludedDeviceCount":  0,
+    "executionRatio":  1.0,
+    "finishedDeviceCount":  1,
+    "logsFileId":  null,
+    "number":  1,
+    "rowIndex":  0,
+    "projectId":  207091073,
+    "projectName":  "UOBAutomation",
+    "screenshotsFileId":  null,
+    "startedByDisplayName":  "changgen.peng@yahoo.com",
+    "startedById":  74703301,
+    "state":  "FINISHED",
+    "successRatio":  1.0,
+    "successfulTestCaseCount":  1,
+    "failedTestCaseCount":  0,
+    "executedTestCaseCount":  1,
+    "testCaseCount":  1,
+    "totalDeviceCount":  1,
+    "warningDeviceCount":  0,
+    "runningDeviceCount":  0,
+    "succeededDeviceCount":  1,
+    "waitingDeviceCount":  0,
+    "abortedDeviceCount":  0,
+    "timeoutedDeviceCount":  0,
+    "userId":  74703301,
+    "frameworkId":  542,
+    "frameworkName":  "Appium iOS Server Side",
+    "deviceCount":  1,
+    "tags":  [
+
+             ],
+    "billable":  false,
+    "message":  null,
+    "uiLink":  "https://cloud.bitbar.com/#testing/projects/207091073/207735937"
+}

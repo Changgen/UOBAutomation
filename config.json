@@ -1,0 +1,20 @@
+{
+    "projectId":  "207091073",
+    "testRunName":  "UITest",
+    "osType":  "IOS",
+    "frameworkId":  542,
+    "files":  [
+                  {
+                      "id":  "149766310",
+                      "action":  "INSTALL"
+                  },
+                  {
+                      "id":  "149780393",
+                      "action":  "RUN_TEST"
+                  }
+              ],
+    "deviceGroupId":  4127,
+    "deviceId":  null,
+    "timeout":  6000,
+    "scheduler":  "PARALLEL"
+}
